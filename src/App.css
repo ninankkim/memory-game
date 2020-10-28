@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-size: 35px;
+
 }
 
 .App-logo {
@@ -39,3 +41,12 @@
 .subtitle {
   color: #767676;
 }
+
+button {
+  margin-top: 20px;
+}
+
+.grid {
+  margin-top: 20px;
+}
+
