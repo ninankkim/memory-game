@@ -98,7 +98,7 @@ class App extends React.Component {
     <p>Match Cards to win</p>
     </header>
     <div className='grid'>   
-    <div> 
+    <div className='space'> 
       {cardsJSX.slice(0,4)} 
       </div> 
       <div className='grid'>

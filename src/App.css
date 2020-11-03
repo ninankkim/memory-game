@@ -16,13 +16,18 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #313D89;
   height: 180px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   color: white;
+  font-size: 45px;
+}
+
+p {
+  font-size: 25px;
 }
 
 .App-link {
@@ -49,4 +54,6 @@ button {
 .grid {
   margin-top: 20px;
 }
+
+
 
